@@ -16,4 +16,4 @@
 
 + El primer comando debe verse algo asi: `git remote add upstream https://www.github.com/username/repository-name.git`. Observa que estos símbolos `<>` no aparecen en la URL del repositorio.
 
-+ En el tercer comando, el mensaje debe ir entre comillas. Debe verse similar a este: `git commit -m "Primera version del proyecto lista"`.
++ En el tercer comando, el mensaje debe ir entre comillas. Debe verse similar a este: `git commit -m "Primera version del proyecto lista"`. 
