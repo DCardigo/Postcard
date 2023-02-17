@@ -9,8 +9,8 @@ En tu archivo `styles.css` hemos especificado que queremos que el `body` del sit
 1. Añade el siguiente código dentro de los tags de apertura y cierre `<head></head>`.
 
 ```html
-<link rel="stylesheet" href="styles.css">
-```
+
+```<link rel="stylesheet" href="styles.css">
 
 ## 💡 Pista:
 
